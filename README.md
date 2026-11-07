@@ -1,3 +1,4 @@
+# 3000IQPlay - Cracking.
 # 198 Macros v1.4.0 (Purified Edition) — Build & User Guide
 
 A 100% deobfuscated, purified, and native-reconstructed edition of **198 Macros v1.4.0**. All virtualization wrappers (Oreans Code Virtualizer `.vlizer`), hypervisor checks (`VMAware`), anti-debugging traps (`NtQueryInformationProcess`), HWID fingerprinting, and cloud authentication gates have been completely removed while preserving the exact behavior, timing, and input sequences of all 14 Minecraft PvP combat macros.
